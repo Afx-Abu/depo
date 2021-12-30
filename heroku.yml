@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /White/Dockerfile
+run:
+   worker: npm start

@@ -190,6 +190,16 @@
             "required": false,
             "value": "https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk"
         },
+        "INSTA_LINK": {
+            "description": "Enter Your Group Link",
+            "required": true,
+            "value": "https://instagram.com/"
+        },
+        "YT_LINK": {
+            "description": "Enter Your Group Link",
+            "required": true,
+            "value": "https://youtube.com/channel/"
+        },
         "DEPLOYER": {
             "description": "enter your name here",
             "required": false

@@ -26,6 +26,11 @@
             "required": false,
             "value": "true"
         },
+        "VERIFIED_TICK": {
+            "description": "Set Verification Tik Caption",
+            "required": false,
+            "value": "[Abu Ser bot]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
+        },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
@@ -55,6 +60,11 @@
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
             "required": true,
             "value": "false"
+        },
+        "THUMBNAIL_URL": {
+            "description": "Paste the image url here to set your photo logo as thumbnail",
+            "required": false,
+            "value": "https://i.imgur.com/wKFKh2l.jpg"
         },
         "WELCOME": {
             "description": "You can select welcome as gif/pp",
@@ -207,6 +217,16 @@
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
             "value": "wa.me/917025994278 (change this)"
+        },
+        "GROUP_LINK": {
+            "description": "Enter Your Group Link",
+            "required": false,
+            "value": "https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk"
+        },
+        "INSTA_LINK": {
+            "description": "Enter Your Group Link",
+            "required": true,
+            "value": "https://instagram.com/"
         },
         "DEPLOYER": {
             "description": "enter your name here",

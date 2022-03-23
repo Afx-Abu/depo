@@ -41,10 +41,15 @@
             "required": true,
             "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐❀"
         },
-        "ALIVE_BUTTON": {
+                "ALIVEBUTTON": {
             "description": "Set the alive message two name",
             "required": true,
-            "value": "ABUSER/ABU"
+            "value": "ʜᴇʟʟᴏ ʙʀᴏ"
+        },
+        "ALIVE_BUTTON": {
+            "description": "Set the Alive message first name",
+            "required": true,
+            "value": "ʜɪ ᴅᴜᴅᴇ"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",

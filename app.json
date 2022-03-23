@@ -86,16 +86,6 @@
             "required": true,
             "value": "91"
         },
-        "INSTA_LINK": {
-            "description": "Enter Your Group Link",
-            "required": true,
-            "value": "https://instagram.com/"
-        },
-        "GROUP_LINK": {
-            "description": "Enter Your Group Link",
-            "required": false,
-            "value": "https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk"
-        },
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
             "required": false          

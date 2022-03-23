@@ -51,6 +51,16 @@
             "required": true,
             "value": "ʜɪ ᴅᴜᴅᴇ"
         },
+        "INSTA_LINK": {
+            "description": "Insta ID",
+            "required": true,
+            "value": "https://instagram.com/_.lino_ox"
+        },
+        "GROUP_LINK": {
+            "description": "Group Link",
+            "required": true,
+            "value": "https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk"
+        },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
             "required": true,

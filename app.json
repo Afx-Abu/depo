@@ -110,6 +110,11 @@
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
             "required": false          
         },
+        "AUDIO_CAPTION": {
+            "description": "Audio forward Name",
+            "required": false,
+            "value": "✰http://ī.am/ꪶ͢ᴀʙᴜ sᴇʀͤꫂ⁩✰"
+        },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION ",
             "required": false,

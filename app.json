@@ -26,6 +26,11 @@
             "required": false,
             "value": "true"
         },
+        "FAKE_PREVIEW": {
+            "description": "Fake Web Preview.. (*Example: Head\nBody\nLink\nmediaType[2 or 3]\nthumbnailUrl)",
+            "required": false,
+            "value": "ᴀʙᴜ sᴇʀ\nwhile ( ! (succeed = try () ) );,l\nhttps://www.instagram.com/p/jasil_xo/?utm_medium=copy_link\n2\nhttps://i.imgur.com/40cQtSL.jpeg"
+        },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
@@ -61,15 +66,14 @@
             "required": true,
             "value": "https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk"
         },
-        "VERIFIED_TICK": {
+        "VERIFICATION_CAPTION": {
             "description": "Set Verification Tik Caption",
-            "required": false,
-            "value": "[Abu ser bot]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
+            "required": false
         },
         "THUMBNAIL_URL": {
             "description": "Paste the image url here to set your photo logo as thumbnail",
             "required": false,
-            "value": "https://i.imgur.com/nLUMShe.jpg"
+            "value": "https://i.imgur.com/xsKCqwZ.jpeg"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",

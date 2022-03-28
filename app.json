@@ -26,10 +26,6 @@
             "required": false,
             "value": "true"
         },
-        "VERIFICATION_CAPTION": {
-            "description": "Set Verification Tik Caption",
-            "required": false
-        },
         "THUMBNAIL_URL": {
             "description": "Paste the image url here to set your photo logo as thumbnail",
             "required": false,

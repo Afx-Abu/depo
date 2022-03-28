@@ -123,7 +123,7 @@
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION ",
             "required": false,
-            "value": "39999600 (change this)"
+            "value": "79999600"
         },
         "AUTO_BİO": {
             "description": " Set true for auto date, time in biography.",

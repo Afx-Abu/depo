@@ -51,6 +51,11 @@
             "required": true,
             "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ ᴀʙᴜ sᴇʀ࿐ (change this)"
         },
+        "NAME_STYLE": {
+            "description": "Set the logo list name",
+            "required": true,
+            "value": "𝙰𝙱𝚄"
+        },
                 "ALIVEBUTTON": {
             "description": "Set the alive message two name",
             "required": true,

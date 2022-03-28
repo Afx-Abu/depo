@@ -29,6 +29,7 @@
         "VERIFICATION_CAPTION": {
             "description": "Set Verification Tik Caption",
             "required": false
+            "value": "[Abu ser Bot]\nCoded by @Afx-Abu (change this)"
         },
         "THUMBNAIL_URL": {
             "description": "Paste the image url here to set your photo logo as thumbnail",

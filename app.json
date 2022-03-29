@@ -74,7 +74,7 @@
         "GROUP_LINK": {
             "description": "Group Link",
             "required": true,
-            "value": "https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk (change this)"
+            "value": "https://chat.whatsapp.com/DNP9Fd1eWrjKz2DalRI2CX"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
